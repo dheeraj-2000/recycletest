@@ -1,2 +1,2 @@
 # recycletest
-recycler with cardview
+Test app contains recycler with cardview
